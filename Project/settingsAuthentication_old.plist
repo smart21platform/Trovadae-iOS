@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Settings</key>
+	<dict>
+		<key>buttonClose</key>
+		<true/>
+		<key>urlRememberPsw</key>
+		<string>http://ext.ciaotrip.it/_services/forgotPassword.php?tenant= salve&amp;domain=ciaotrip.it</string>
+		<key>urlPrivacy</key>
+		<string>http://blog.ciaotrip.it/salve/privacy/</string>
+	</dict>
+	<key>Header</key>
+	<dict>
+		<key>imageBackground</key>
+		<string>headerBackground.png</string>
+		<key>title</key>
+		<string>Comune di Salve</string>
+		<key>description</key>
+		<string>Entra gratuitamente nella nostra comunità, iscriviti o accedi.</string>
+		<key>titleFontColor</key>
+		<string>ffffff</string>
+		<key>titleFontSize</key>
+		<string>40.0</string>
+		<key>titleFont</key>
+		<string>Helvetica Neue</string>
+		<key>descriptionFontColor</key>
+		<string>ffffff</string>
+		<key>descriptionFontSize</key>
+		<string>12</string>
+		<key>descriptionFont</key>
+		<string>Helvetica Neue</string>
+		<key>buttonFontColor</key>
+		<string>ffffff</string>
+		<key>buttonFont</key>
+		<string>System Bold</string>
+		<key>buttonFontSize</key>
+		<string>12</string>
+	</dict>
+</dict>
+</plist>

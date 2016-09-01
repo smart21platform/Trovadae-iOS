@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6751" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <scenes>
+        <!--Info First LoadVC-->
+        <scene sceneID="glJ-0X-zJc">
+            <objects>
+                <viewController storyboardIdentifier="infoFirstLoad" id="QPU-Sh-Htm" customClass="SHPInfoFirstLoadVC" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Wm8-8p-crN"/>
+                        <viewControllerLayoutGuide type="bottom" id="NnM-p6-Tj0"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="w63-Re-dYk">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background_geolocation.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="w04-IV-DKQ">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="q31-Z7-0QP">
+                                <rect key="frame" x="90" y="458" width="140" height="30"/>
+                                <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="CONTINUA">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="actionButtonContinue:" destination="QPU-Sh-Htm" eventType="touchUpInside" id="p58-Uz-FT6"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="..." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="8" baselineAdjustment="alignBaselines" minimumFontSize="8" translatesAutoresizingMaskIntoConstraints="NO" id="wEm-Yn-VsG">
+                                <rect key="frame" x="20" y="95" width="280" height="200"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="200" id="eNG-ty-R2J"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="STHeitiTC-Light" family="Heiti TC" pointSize="16"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LOCALIZZAZIONE" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jI2-yE-sFp">
+                                <rect key="frame" x="25" y="80" width="270" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="3G1-qV-hye"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="STHeitiTC-Light" family="Heiti TC" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_geolocation.png" translatesAutoresizingMaskIntoConstraints="NO" id="C26-2p-lsg">
+                                <rect key="frame" x="135" y="28" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="50" id="TFY-Nu-u04"/>
+                                    <constraint firstAttribute="height" constant="50" id="Z34-by-dsA"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="jI2-yE-sFp" firstAttribute="centerY" secondItem="w63-Re-dYk" secondAttribute="centerY" multiplier="1/5" constant="43.199999999999996" id="9Cf-wD-cag"/>
+                            <constraint firstAttribute="centerX" secondItem="w04-IV-DKQ" secondAttribute="centerX" id="9z6-qK-bge"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="wEm-Yn-VsG" secondAttribute="trailing" constant="4" id="BG5-NU-lKT"/>
+                            <constraint firstAttribute="centerX" secondItem="C26-2p-lsg" secondAttribute="centerX" id="C5Z-Zd-vlb"/>
+                            <constraint firstItem="wEm-Yn-VsG" firstAttribute="top" secondItem="w63-Re-dYk" secondAttribute="centerY" multiplier="1/3" id="DEd-6X-yZb"/>
+                            <constraint firstItem="q31-Z7-0QP" firstAttribute="leading" secondItem="w63-Re-dYk" secondAttribute="leadingMargin" constant="74" id="HwH-12-4Jn"/>
+                            <constraint firstItem="w04-IV-DKQ" firstAttribute="height" secondItem="w63-Re-dYk" secondAttribute="height" id="PN9-wR-f0K"/>
+                            <constraint firstItem="w04-IV-DKQ" firstAttribute="width" secondItem="w63-Re-dYk" secondAttribute="width" id="aX6-Fa-DFu"/>
+                            <constraint firstItem="NnM-p6-Tj0" firstAttribute="top" secondItem="q31-Z7-0QP" secondAttribute="bottom" constant="80" id="aum-eg-6xs"/>
+                            <constraint firstItem="jI2-yE-sFp" firstAttribute="leading" secondItem="w63-Re-dYk" secondAttribute="leadingMargin" constant="9" id="eCD-Ii-O7C"/>
+                            <constraint firstAttribute="centerY" secondItem="w04-IV-DKQ" secondAttribute="centerY" id="eNC-9g-ZK1"/>
+                            <constraint firstItem="jI2-yE-sFp" firstAttribute="top" secondItem="C26-2p-lsg" secondAttribute="bottom" constant="2" id="hoV-4c-FMn"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="q31-Z7-0QP" secondAttribute="trailing" constant="74" id="k8j-7F-Wcf"/>
+                            <constraint firstItem="wEm-Yn-VsG" firstAttribute="leading" secondItem="w63-Re-dYk" secondAttribute="leadingMargin" constant="4" id="vfW-oR-M5j"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="jI2-yE-sFp" secondAttribute="trailing" constant="9" id="xbZ-uq-XpI"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="aV2-ol-6lB"/>
+                    <connections>
+                        <outlet property="iconLocation" destination="C26-2p-lsg" id="EWl-j4-a4I"/>
+                        <outlet property="imageBackground" destination="w04-IV-DKQ" id="7cF-Ds-b8k"/>
+                        <outlet property="labelButtonContinue" destination="q31-Z7-0QP" id="Ayj-Ud-lhc"/>
+                        <outlet property="labelTextInfo" destination="wEm-Yn-VsG" id="nrD-Uw-6y4"/>
+                        <outlet property="labelTitleInfo" destination="jI2-yE-sFp" id="AtF-hu-Egv"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2ku-Wk-lIQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="339" y="324"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background_geolocation.jpg" width="640" height="960"/>
+        <image name="icon_geolocation.png" width="64" height="64"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

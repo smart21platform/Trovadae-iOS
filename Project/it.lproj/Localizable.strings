@@ -1,0 +1,567 @@
+/* 
+  Localizable.strings
+  English
+
+  Created by andrea sponziello on 17/09/12.
+
+*/
+
+//DETAIL PRODUCT
+"multiStoreLKey" = "Vedi altri punti vendita";
+
+// General
+//"AppTitleLKey" = "Eurofood";
+"CancelLKey" = "Annulla";
+"DoneLKey" = "Fatto";
+"CloseLKey" = "Chiudi";
+"BackLKey" = "Indietro";
+"SendLKey" = "Pubblica";
+"RequiredPlaceholderLKey" = "Obbligatorio";
+"ConnectionErrorLKey" = "Errore di Connessione!";
+"TimeToStringDateFormat" = "d MMMM";
+"UploadedByLKey" = "Caricato da";
+"MoreResultsLKey" = "Più risultati";
+"NoMoreResultsLKey" = "";
+"NearestProductLKey" = "Il più vicino!";
+"NoProductsLKey" = "Nessun oggetto";
+"ProductsCreatedButtonLKey" = "Annunci creati";
+"ProductsLikedButtonLKey" = "Annunci piaciuti";
+"LoadingLKey" = "Aggiornamento in corso...";
+"PullToRefreshLKey" = "Trascina in basso per aggiornare";
+"ReleaseToRefreshLKey" = "Rilascia per aggiornare";
+"NearestNameShopsLKey" = "Attività più vicine";
+"LoadingNearestShopsLKey" = "Cerco i Luoghi più vicini...";
+"LoadingNearestNameShopsLKey" = "Cerco le attività più vicine...";
+"LabelTitleContainerLKey"="Ultimi";
+
+
+"LocationNotAvailableLKey" = "La tua posizione non è disponibile. Verifica che i Servizi di Localizzazione siano attivati in Impostazioni.";
+"NearestShopsLocationNotAvailableLKey" = "I Luoghi più vicini non sono disponibili. Verifica che i Servizi di Localizzazione siano attivati in Impostazioni.";
+"NearestNameShopsLocationNotAvailableLKey" = "Le attività più vicine non sono disponibili. Verifica che i Servizi di Localizzazione siano attivati in Impostazioni.";
+
+"LocDisabledTitleLKey" = "Localizzazione Disabilitata";
+"LocDisabledMessageLKey" = "Attiva i servizi di Localizzazione per permettere alla App di stabilire la tua Posizione.";
+"CategoryAllLKey" = "Tutto";
+"Explore" = "Cerca";
+"LikeLKey" = "Mi piace"; // Mi piace
+"LikeToLKey" = "Piace a";
+"PeopleLKey" = "persone";
+"PersonLKey" = "persona";
+"UnlikeLKey" = "Piaciuto"; // Piaciuto
+"LikedLKey" = "Piaciuto";
+"UnlikedLKey" = "Non più";
+"NoItemsLKey" = "Nessun oggetto";
+"NearestShopsLKey" = "I Luoghi più vicini";
+"NoShopFoundLKey" = "Nessun Luogo";
+"NoNameShopFoundLKey" = "Nessuna attività";
+
+"NoUserFoundLKey" = "Nessun Utente";
+"RecentlyUsedShopsLKey" = "Luoghi usati di recente";
+"RecentlyUsedNameShopsLKey" = "Attività usate di recente";
+
+"AddShopLKey" = "Aggiungi Luogo";
+"ShopNameLKey" = "Nome";
+"TapTheMapLKey" = "Tocca la Mappa per posizionare";
+"ChooseShopLKey" = "Scegli un Luogo";
+"ChooseShopNameLKey" = "Scegli una Attività";
+
+
+"PlaceTheShopOnTheMapLKey" = "Tieni leggermente premuto per posizionare il luogo sulla mappa";
+"NetworkErrorTitleLKey" = "Errore di rete";
+"NetworkErrorLKey" = "Si è verificato un errore di rete.";
+"UnknownErrorTitleLKey" = "Errore";
+"UnknownErrorLKey" = "Si è verificato un errore durante l'operazione.";
+"SavingLKey" = "Sto salvando...";
+"SelectCategoryTitleLKey" = "Categoria";
+"ShopLKey" = "Luogo";
+"ShopsLKey" = "Luoghi";
+"LocationTitleLKey" = "Posiziona";
+"WelcomeViewTitleLKey" = "Benvenuto su %@!";
+"WelcomeViewMessageLKey" = "Da questo momento potrai registrare gratuitamente nuove Offerte e Promozioni e condividerle con i tuoi amici online.";
+"WelcomeViewStartButtonLKey" = "Inizia ora";
+"TryAgainLKey" = "Riprova";
+"FewSecondsAgoLKey" = "pochi secondi fa";
+"AboutAMinuteAgoLKey" = "circa un minuto fa";
+"MinutesAgoLKey" = "minuti fa";
+"AboutAnHourAgoLKey" = "circa un'ora fa";
+"HoursAgoLKey" = "ore fa";
+"ShowMenuButtonLKey" = "Menù";
+"CallTitleLKey" = "Chiamare?";
+"PhoneNumberLKey" = "Telefono";
+"WebsiteLKey" = "Sito Web";
+"GetRouteLKey" = "Ottieni indicazioni";
+"InfoLKey" = "Informazioni";
+"NotAvailableLKey" = "Non disponibile";
+"WhyAreYouReportingLKey" = "Cosa vuoi segnalare?";
+"ReportLKey" = "Segnala";
+"FeedbackSend" = "Invia";
+"yourEmailOptional" = "La tua email (opzionale)";
+"ProductReportedLKey" = "Segnalato";
+"SendLKey" = "PUBBLICA";
+"Send2LKey" = "INVIA";
+"SearchProductsShopsUsersLKey" = "Cerca ...";
+"SearchProductsUsersLKey" = "Cerca ...";
+"SearchShopsPlaceholderLKey" = "Cerca Luogo";
+"SearchPlaceholderLKey" = "Cerca";
+"DeleteProductLKey" = "Elimina";
+"EditProductLKey" = "Modifica";
+"ShareOnFacebookLKey" = "Condividi su Facebook";
+"ShareOnTwitterLKey" = "Condividi su Twitter";
+"ShareOnLKey" = "Condividi su";
+"CopyUrlToShareLKey" = "Copia URL per condividere";
+"DeleteProductAlertTitleLKey" = "Conferma eliminazione";
+"DeleteProductAlertMessageLKey" = "Eliminare questo oggetto?";
+"SignalUserAsSpamLKey" = "Segnala come spam";
+"ThanksForSignalLKey" = "Grazie per la segnalazione";
+"UserStoryDescriptionPlaceholderLKey" = "Descrivi anche con #tag...";
+"UserStoryTitlePlaceholderLKey" = "massimo 50 caratteri";
+"ConnectingToFacebookLKey" = "Connessione a Facebook...";
+"AuthenticatingLKey" = "Autenticazione in corso...";
+"RequestingToFacebookLKey" = "Richiedo dati...";
+"StandardLoginTopMessageLKey" = "Registrati ora per entrare gratuitamente nella nostra comunità";//"Registrati ora per cercare, condividere e inserire gratuitamente le migliori Offerte commerciali della tua zona.";
+"CategoriesLoadErrorLKey" = "Impossibile scaricare Categorie. Riprova.";
+"NoCategoriesErrorLKey" = "Nessuna Categoria scaricata.";
+
+// report abuse
+"Abuse1LKey" = "Vìola le Condizioni d'uso";
+"Abuse2LKey" = "Violenza o Pornografia";
+"Abuse3LKey" = "Danneggia questo Luogo";
+"Abuse4LKey" = "Contenuto falso o tendenzioso";
+"Abuse5LKey" = "Spam";
+"Abuse6LKey" = "Altro";
+"PleaseSelectAReasonForReportingThisItemLKey" = "Seleziona una ragione per cui vuoi segnalare questo oggetto";
+"ThanksForReportingMessageLKey" = "Grazie per il tuo contributo!";
+
+// Currencies' symbols
+"euro" = "€";
+"dollar" = "$";
+
+// Search
+"SearchProductsButtonLKey" = "Contenuti";
+"SearchShopsButtonLKey" = "Luoghi";
+"SearchUsersButtonLKey" = "Utenti";
+
+// Add Product
+// wizard
+// steps' titles
+"PhotoStep" = "Foto";
+"DescriptionStep" = "Descrivi";
+"POIStep" = "Dove";
+"DateStep" = "Periodo";
+"PriceStep" = "Prezzo";
+"PreviewStep" = "Anteprima";
+// labels
+"wizardNextButton" = "Avanti";
+"wizardAddButton" = "Aggiungi";
+"wizardChangeButton" = "Cambia";
+"wizardSelectText" = "Selezionare";
+"minimumWordsForDescription" = "Almeno 5 caratteri";
+"poiEatPlaceholderLKey" = "Ristorante, pizzeria, pub, trattoria, etc.";
+"poiSleepPlaceholderLKey" = "Cerca la Struttura";
+"poiEventPlaceholderLKey" = "Cerca il Luogo";
+"poiPlaceholderLKey" = "Seleziona un luogo premendo qui";
+"durationDaysFormat" = "Dura circa %d giorni";
+"durationAboutOneDayFormat" = "Dura circa un giorno";
+"durationLessThanOneDayFormat" = "Dura meno di un giorno";
+"wizardZeroPricePlaceholderLKey" = "0,00";
+"wizardPricePlaceholderLKey" = "prezzo (opzionale)";
+"wizardPriceEventPlaceholderLKey" = "prezzo (opzionale)";
+"wizardCurrencyLKey" = "€";
+"freePriceLKey" = "Trattabile";
+"PriceNotANumberValidationMessageLKey" = "Non è un prezzo valido";
+"PriceIsMandatoryLKey" = "Il prezzo è obbligatorio";
+"PriceNotNullLKey" = "Il prezzo non può essere 0";
+"SelectDuration" = "Scegli...";
+"durationOneDay" = "Un giorno";
+"durationDays" = "giorni";
+"durationDay" = "giorno";
+"durationMonth" = "mese";
+"durationMonths" = "mesi";
+"howlong" = "Durata";
+"endsOn" = "Termina";
+"areYouSureNoPrice" = "Non hai inserito il prezzo.\nContinuare?";
+"wizardDealStartPricePlaceholderLKey" = "Prezzo listino";
+"wizardDealPricePlaceholderLKey" = "Prezzo scontato";
+"wizardEventPricePlaceholderLKey" = "Prezzo evento";
+"SetPriceValidationMessage" = "Inserisci un prezzo valido";
+"SetPriceEndValidationMessage" = "Inserisci un prezzo finale valido";
+"SetPriceStartValidationMessage" = "Inserisci un prezzo iniziale valido";
+"PriceGreaterThanOrEqualToStartPriceNotAllowed" = "Prezzo scontato maggiore del prezzo di listino!";
+"minimumWordsForTitle" = "Almeno 5 caratteri";
+"smallDealer" = "sconto basso";
+"mediumDealer" = "sconto medio";
+"bigDealer" = "sconto alto";
+"h"="h";
+"m"="m";
+"AddOffert" = "Aggiungi un nuovo post";
+"ControlPanel" = "Pannello di Controllo";
+"ShareDocuments" = "Documenti condivisi";
+
+
+// deprecated single form
+"BeforeSavingLKey" = "Prima di inviare";
+//"EditDescriptionValidationMessageLKey" = "Inserisci la Descrizione";
+"EditProductShopValidationMessageLKey" = "Seleziona un Luogo";
+"SelectACategoryValidationMessageLKey" = "Classifica l'Offerta";
+"ShareOnSectionTitleLKey" = "Condividi su";
+"SearchOrAddShopPlaceholderLKey" = "Cerca o aggiungi un Luogo";
+"SearchOrAddNameShopPlaceholderLKey" = "Cerca o aggiungi una attività";
+
+"spanLabelLKey" = "Inserisci le date di validità";
+"spanSectionTitleLKey" = "Periodo";
+"spanStartDateLabelLKey" = "Inizia";
+"spanEndDateLabelLKey" = "Termina";
+"EditProductDateEndValidationMessageLKey" = "Inserisci la fine del Periodo (Termina)";
+
+// Signin Signup
+"SigninValidationErrorTitleLKey" = "Prima del Login";
+"SigninValidationErrorLKey" = "Compila Username and Password per favore.";
+"UsernameLKey" = "Username";
+"PasswordLKey" = "Password";
+"RememberPswButtonLKey" = "Hai dimenticato la Password?";
+"FullNameLKey" = "Nome completo";
+"EmailLKey" = "E-mail";
+"RegisterMessageInSigninViewLKey" = "Non hai un account? Registrati gratis.";
+"SigninNavbarButtonLKey" = "Entra";
+"SignedInPopupLKey" = "Benvenuto!";
+"UseramePasswordInvalidLKey" = "Username o Password non validi.";
+"EnterTheNetworkLKey" = "Entra Nella Rete";
+"ConnectWithFacebookLKey" = "Entra con Facebook";
+"SignupLKey" = "Registrati con Email";
+"SigninLKey" = "Accedi";
+"SignoutLKey" = "Esci";
+"LoginHomeTitleLKey" = "Benvenuto";
+"ProfileHomeTitleLKey" = "Profilo";
+"HomeLKey" = "Scopri";
+"RegisteringLKey" = "Registrazione...";
+"RegisterActionLKey" = "Registrati";
+"AcceptTermsLKey" = "Accetta le \"Condizioni d'uso\" prima di procedere.";
+"AcceptConditionsLKey" = "Accetta le Condizioni d'uso";
+"ViewConditionsLKey" = "Leggi le Condizioni d'uso";
+"RegisterValidationErrorTitleLKey" = "Prima di procedere";
+"RegisterValidationErrorLKey" = "Compila il modulo perfavore.";
+"RegisterValidationEmailLKey" = "Inserisci una email valida.";
+"RegistrationErrorTitleLKey" = "Errore di registrazione";
+"SigninErrorTitleLKey" = "Errore di accesso";
+"UsernameAlreadyUsedLKey" = "Username già in uso.";
+"EmailAlreadyUsedLKey" = "Email già presente.";
+"UsernameInvalidLKey" = "Username non valido.";
+"UnknownRegistrationErrorLKey" = "Errore sconosciuto.";
+"NoLocMessageLKey" = "La tua posizione non è disponibile.";
+"locationInfoErrorLKey" = "!";
+
+"SignoutAlertLKey" = "Sei sicuro di voler uscire?";
+
+// Take Photo
+"AddProductTitleLKey" = "Aggiungi a %@";
+"TakePhotoLKey" = "Scatta una Foto";
+"PhotoFromGalleryLKey" = "Scegli dalla Galleria";
+"AddNewProductsTitleLKey" = "Scegli una categoria e pubblica il tuo post su %@";
+"UploadsInProgressLKey" = "Caricamenti in corso";
+"UploadFailedLKey" = "Caricamento fallito";
+"RemoveProfilePhotoLKey" = "Rimuovi foto";
+"RemovePhotoLKey" = "Rimuovi foto";
+
+
+// Product Detail
+"ProductDetailTitleLKey" = "Inserisci";
+"DescriptionLabelLKey" = "Descrizione";
+"ShopLabelLKey" = "Luogo";
+"CategoryLabelLKey" = "Categoria";
+"BrandLabelLKey" = "Marca";
+"PriceLabelLKey" = "Prezzo";
+"DescriptionPlaceholderLKey" = "Descrivi...";
+"BrandPlaceholderLKey" = "La marca";
+"PricePlaceholderLKey" = "Prezzo";
+"CategoryPlaceholderLKey" = "Mangiare, Dormire, ...";
+"PositionDetailTitleLKey" = "Posizione";
+"FacebookDiaryLKey" = "Diario";
+"SelectFacebookPageLKey" = "SELEZIONA UNA PAGINA";
+"toLKey" = "al";
+"toKey" = "a";
+"UploadedDateLKey" = "Caricato";
+"byLKey"="da";
+"offerValidLKey"="Offerta valida";
+"validLKey"="Validità";
+"fromLKey"="dal";
+"ilLKey"="il";
+"MapLKey" = "Mappa";
+"remaining_time" = "scade tra";
+"ScadutoLKey" = "SCADUTO";
+"PriceRetailerLabelLKey" = "Prezzo rivenditore";
+"OtherPosts" = "Altri oggetti di";
+"NumberPlacesAvailable" = "Numero parcheggi disponibili";
+"EditPlaces" = "Modifica il numero di posti disponibili";
+"EditPlan" = "Modifica gli orari di apertura e chiusura";
+"labelHeaderEditPlaces" = "Modifica in numero di posti disponibili nel parcheggio";
+
+
+// Shop detail
+"ShopTitleLKey" = "Luogo";
+
+// main menu
+"ExploreLKey" = "Cerca";
+"AddLKey" = "Aggiungi";
+"ProfileLKey" = "Profilo";
+"MoreKey" = "Altro";
+
+// notifications
+"NotificationsLKey" = "Notifiche";
+"push-liked" = "A %1$@ piace il tuo post";
+"noAutenticatedNotification" = "Registrati per vedere le tue notifiche.";
+
+//webView utility
+"INFORMAZIONI"="INFORMAZIONI";
+"ASSISTENZA"="ASSISTENZA";
+"OPZIONI"="OPZIONI";
+"messaggio login"="Entra nella nostra comunità!";
+"Login/Registrati" = "Login/Registrati";
+"la storia"="La storia";
+"come funziona"="Come funziona";
+"sito istituzionale"="Sito istituzionale";
+"sito web"="Sito Web";
+"pagina facebook"="Pagina Facebook";
+"account twitter"="Account Twitter";
+"numeri utili"="Numeri utili";
+"segnala un problema"="Segnala un problema";
+"centro assistenza"="Centro assistenza";
+"condizioni duso"="Condizioni d'uso";
+"informazioni"="Info sulla App";//"Informazioni";
+"impostazioni di condivisione"="Impostazioni di condivisione";
+
+"informativa sulla privacy"="Privacy";//"Informativa sulla privacy";
+"portale turistico"="Portale turistico";
+"farmacie di turno"="Farmacie di turno";
+"numeri utili"="Numeri utili";
+"sito URP"="Sito URP";
+
+//search city
+"Posizione attuale"="Posizione attuale";
+"SearchAround"="Stai cercando intorno a ";
+"you"="Te";
+"SearchProductsAll"="Tutto";
+
+
+//info controller page
+"labelInfoControllerPage1"="Scopri le offerte per mangiare dormire e divertirti.";
+"labelInfoControllerPage2"="Cerca intorno a te o nei tuoi posti preferiti.";
+"labelInfoControllerPage3"="Contatta l'utente e goditi la tua vacanza.";
+"labelInfoControllerPage5"="#mangiare #divertirti #dormire #centrobenessere #discoteca #terme #pizzeria #ristorante #sauna #sagra #concerti #bed&breakfast #arte #lido #monumenti #eventi";
+
+//category name translate
+//"__deal__eat-deal"="Offerte";
+"__animaecuore__tosee" = "Proposte fotografiche";
+"__vacanzeinpuglia__events"="Eventi";
+"__vacanzeinpuglia__deal__citta"="In Città";
+
+"__studiosponziello__staff"="Lo Staff";
+"__studiosponziello__news"="News";
+"__studiosponziello__scadenze"="Scadenzario";
+//"__deal__service-deal"="Offerte";
+
+// WIZARD
+"inCategoryLKey" = "nella categoria";
+//"category-step-start"="Seleziona una categoria per iniziare l'inserimento di un nuovo post";
+"photo-step-top" = "Scegli una *foto* rappresentativa del *post*.";
+"photo-step-top-type-event" = "Scegli una *foto* rappresentativa dell' *evento*.";
+"photo-step-top-type-deal" = "Scegli una *foto* rappresentativa della tua *offerta*.";
+"photo-step-hint" = "*Suggerimento*: Scegli una *bella* foto. Ricorda che una foto ben fatta invoglierà l’utente ad approfondire i dettagli.";
+
+"description-step-top" = "*Descrivi* con accuratezza il post.";
+"description-step-top-type-deal" = "*Descrivi* con accuratezza la tua offerta.";
+"description-step-hint" = "*Suggerimento*: Una buona descrizione deve essere originale e incuriosire.";
+"description-step-example-type-photo" = "Vista esterna del Castello Angioino #castello #cripta #roma #800 #romanico #capitelli #balaustre\r\rVeduta di una delle più belle spiagge d'italia dalla sabbia bianchissima e il mare cristallino. A pchi chilometri da Gallipoli. Altro: #mare #natura #salento #spiaggia";
+"description-step-example-type-event" = "Dalle 19:30 a Melpignano Concertone Finale \"La Notte Della Taranta\", Il più grande festival d'Italia e una delle più significative manifestazioni sulla cultura popolare in europa. #concerto #nottedellataranta #pizzica #musica #concertone #orchestra #livemusic #freeentry";
+"description-step-example-type-cover" = "";
+"description-step-example-type-deal" = "Menu a scelta tra pesce e #carne con #antipasto, primo, secondo, dolce e bottiglia di vino a 99,90€ #pescefresco #pasta #primopiatto #pesce #mare #spaghetti #calamari";
+"description-step-example-type-menu" = "Linguine ai frutti di mare. Piatto caldo #pescefresco #mare #spaghetti #calamari";
+
+"title-step-top" = "*Titolo* del post.";
+"title-step-hint" = "*Suggerimento*: Riassumi in un rigo il tuo post.";
+"title-step-example-type-deal" = "Menu di pesce e vino 12€ a persona";
+"title-step-example-type-menu" = "Linguine allo scoglio";
+"title-step-example-type-event" = "Notte bianca Roma 2014";
+"title-step-example-type-photo" = "Veduta Duomo";
+
+
+"date-step-top" = "Il *periodo*";
+"date-step-top-type-deal" = "In quale *periodo* è valida questa offerta?";
+"date-step-hint" = "Inserisci la *data di inizio* e la *durata* del post che resterà visibile sono nell'intervallo indicato";
+"date-step-hint-type-event" = "Inserisci la *data di inizio* e la *durata* dell'evento.";
+
+"price-step-top" = "*Quanto* costa?";
+"price-step-hint" = "Inserisci un prezzo. Puoi anche indicare uno sconto inserendo il *prezzo scontato*.";
+"price-step-hint-type-deal" = "*Suggerimento*: Le offerte con uno sconto elevato sono le più interessanti.";
+"price-step-hint-type-menu" = "*Suggerimento*: I piatti con il prezzo indicato sono i più interessanti.";
+"price-step-hint-type-event" = "Indicare il prezzo in caso di evento non gratuito. Puoi indicare opzionalmente uno sconto.";
+
+"poi-step-top" = "Il *Luogo*";
+"poi-step-top-type-deal" = "Presso quale *attività commerciale* è disponibile questa offerta?";
+"poi-step-top-type-photo" = "In quale *Luogo* hai scattato questa foto?";
+"poi-step-top-type-event" = "In quale *Città* o *Luogo* si svolge l'evento?";
+"poi-step-hint" = "Scegli un luogo tra quelli disponibili oppure creane uno nuovo.";
+"poi-step-hint-type-deal" = "Cerca una *attività commerciale* tra quelle disponibili oppure creane una nuova.";
+
+
+//add
+//"AddNewPost"="Aggiungi un nuovo *Contenuto*: Prodotto, Offerta, Evento, Punto di Interesse, ecc";
+"AddNewPost"="Pubblica un nuovo *Annuncio*";
+"AddNewPost"="Inserisci un *Defibrillatore*";
+
+//UPDATE PRODUCT
+"error-update-reload"="La modifica non è andata a buon fine. Riprova.";
+
+"FacebookErrorTitle" = "Errore";
+"FacebookConnectionError" = "Si è verificato un errore durante la connessione con Facebook. Verifica i permessi in Settings > Facebook > ";
+
+//buttons
+"Continue"="CONTINUA";
+
+//WIZARD
+//step 1
+"SeiSicuroDelete" ="Sei sicuro di voler eliminare l'oggetto?";
+"header-step1-types"="Cosa vuoi inserire? Seleziona la *tipologia* desiderata tra le seguenti";
+
+"type-deal"="Offerta o Prodotto";
+"type-cover"="Negozio, Attività commerciale o Luogo";
+"type-photo"="Foto";
+"type-event"="Evento";
+"type-ad"="Offri un passaggio";
+"AddNewReport" = "Segnala un disservizio";
+"header-step-start-report"="Seleziona il punto dove vuoi effettuare la segnalazione!";
+
+
+"header-step2-categories-deal"="In quale *categoria* vuoi aggiungere l'Offerta o il Prodotto";
+"header-step2-categories-cover"="In quale *categoria* vuoi aggiungere il Negozio, l'Attività commerciale o il Luogo";
+"header-step2-categories-photo"="In quale *categoria* vuoi aggiungere la Foto";
+"header-step2-categories-event"="In quale *categoria* vuoi aggiungere l'Evento";
+"header-step2-categories-report"="In quale *categoria* vuoi aggiungere la segnalazione";
+
+"header-step3-photo-deal"="Scegli una foto rappresentativa della tua *Offerta* o *Prodotto*";
+"header-step3-photo-cover"="Scegli una foto rappresentativa del *Negozio*, *Attività commerciale* o *Luogo*";
+"header-step3-photo-photo"="Scegli una bella *Foto*";
+"header-step3-photo-event"="Scegli una foto rappresentativa dell'*Evento*";
+"header-step3-photo-report"="Scegli una foto rappresentativa la *Segnalazione*";
+"header-step3-photo-ad"="Scatta una foto al *mezzo di trasporto*";
+
+"hint-step3-photo-deal"="*Suggerimento*: Scegli una *bella* foto. Ricorda che una foto ben fatta invoglierà l’utente ad approfondire i dettagli.";
+"hint-step3-photo-cover"="*Suggerimento*: Scegli una *bella* foto. Ricorda che una foto ben fatta invoglierà l’utente ad approfondire i dettagli.";
+"hint-step3-photo-photo"="*Suggerimento*: Scegli una *bella* foto. Ricorda che una foto ben fatta invoglierà l’utente ad approfondire i dettagli.";
+"hint-step3-photo-event"="*Suggerimento*: Scegli una *bella* foto. Ricorda che una foto ben fatta invoglierà l’utente ad approfondire i dettagli.";
+"hint-step3-photo-report"="*Suggerimento*: Scegli una *bella* foto. Ricorda che tanto più una foto ben fatta tanto più chiara sarà la segnalazione.";
+"hint-step3-photo-ad"="*Suggerimento*: l'immagine non è obbligatoria ma aiuta l'utente nella scelta del passaggio";
+
+"header-step4-title-deal"="Dai un *Titolo* che riassuma la tua *Offerta* o *Prodotto* in poche parole.";
+"header-step4-title-cover"="Inserisci il nome del *Negozio*, dell'*Attività commerciale* o del *Luogo*";
+"header-step4-title-photo"="Descrivi la tua *Foto*";
+"header-step4-title-event"="Dai un *Titolo* che riassuma in poche parole l'*Evento*.";
+
+"hint-step4-title-deal"="*Suggerimento*: Il titolo deve essere sintetico e immediato ex: 'Diesel FAYZA - Jeans baggy - blu'";
+"hint-step4-title-cover"="*Suggerimento*: Il titolo deve rappresentare il nome esatto del punto di interesse ex: 'Zara Abbigliamento', 'Ristorante Pizzeria Bella Napoli' oppure 'Palazzo Mongiò'";
+"hint-step4-title-photo"="";
+"hint-step4-title-event"="*Suggerimento*: Il titolo deve essere conciso ed esplicativo dell'evento ex: 'La Domenica Happy Hours dalle h.18'";
+
+"example-step4-title-deal"="";
+"example-step4-title-cover"="";
+"example-step4-title-photo"="";
+"example-step4-title-event"="";
+
+"header-step5-poi-deal"="Inserisci l'*Attività commerciale* o il *Negozio* dove è disponibile l'Offerta o il Prodotto";
+"header-step5-poi-cover"="Inserisci il nome del *Negozio*, dell'*Attività commerciale* o del *Luogo*";
+"header-step5-poi-photo"="Inserisci il *Luogo* di interesse o il *Monumento* a cui fa' riferimento la *Foto*";
+"header-step5-poi-event"="Inserisci il *Luogo*, il *Negozio* o l'*Attività commerciale* presso il quale si svolgerà l'evento";
+
+"hint-step5-poi-deal"="*Suggerimento*: Se non visualizzi il luogo tra quelli intorno a te, cercalo inserendo il nome esatto oppure aggiungilo se la ricerca non da risultati";
+"hint-step5-poi-cover"="*Suggerimento*: Se non visualizzi il luogo tra quelli intorno a te, cercalo inserendo il nome esatto oppure aggiungilo se la ricerca non da risultati";
+"hint-step5-poi-photo"="*Suggerimento*: Se non visualizzi il luogo tra quelli intorno a te, cercalo inserendo il nome esatto oppure aggiungilo se la ricerca non da risultati";
+"hint-step5-poi-event"="*Suggerimento*: Se non visualizzi il luogo tra quelli intorno a te, cercalo inserendo il nome esatto oppure aggiungilo se la ricerca non da risultati";
+
+"header-step-chooseShop-deal"="Cerca o seleziona tra i seguenti, il *Negozio* o l'*Attività commerciale* dov'è disponibile l'Offerta o il Prodotto";
+"header-step-chooseShop-cover"="Cerca o seleziona tra i seguenti, il *Negozio* o l'*Attività commerciale* o il *Luogo* che vuoi inserire";
+"header-step-chooseShop-photo"="Cerca o seleziona il *Luogo* o il *Monumento* al quale fa riferimento l'immagine che hai caricato";
+"header-step-chooseShop-event"="Cerca o seleziona tra i seguenti, il *Negozio*, l'*Attività commerciale* o il *Luogo* presso il quale si svolgerà l'evento";
+
+"searchPlaceholder-step-chooseShop-deal" = "Cerca un Negozio, Attività o Luogo";
+"searchPlaceholder-step-chooseShop-cover" = "Cerca un Negozio, Attività o Luogo";
+"searchPlaceholder-step-chooseShop-photo" = "Cerca un Negozio, Attività o Luogo";
+"searchPlaceholder-step-chooseShop-event" = "Cerca un Negozio, Attività o Luogo";
+
+"header-step6-date-deal"="In che periodo è *valida* l'offerta o è *disponibile* il prodotto?";
+"header-step6-date-cover"="";
+"header-step6-date-photo"="";
+"header-step6-date-event"="Quando *inizia* e quanto *dura* l'Evento";
+
+"hint-step6-date-deal"="*Suggerimento*: Inserisci la *data di inizio* e la *durata* dell'Offerta, oppure indica il *periodo* di disponabilità del prodotto (l'offerta o prodotto resterà visibile solo nell'intervallo indicato).";
+"hint-step6-date-cover"="";
+"hint-step6-date-photo"="";
+"hint-step6-date-event"="*Suggerimento*: Inserisci la *data di inizio* e la *durata* dell'Evento che resterà visibile solo nell'intervallo indicato";
+
+"header-step7-price-deal"="Inserisci il prezzo del *Prodotto* ed eventualmente il prezzo scontato dell'*Offerta*";
+"header-step7-price-cover"="";
+"header-step7-price-photo"="";
+"header-step7-price-event"="Inserisci il prezzo dell'*Evento* e l'eventuale sconto";
+
+"hint-step7-price-deal"="*Suggerimento*: I prodotti con un prezzo sono generalmente più apprezzati e visualizzati. Le offerte con uno sconto elevato sono le più interessanti.";
+"hint-step7-price-cover"="";
+"hint-step7-price-photo"="";
+"hint-step7-price-event"="*Suggerimento*: Se un evento è a pagamento, è preferibile, per completezza di informazione, aggiungere il prezzo";
+"labelPriceDiscount"="Prezzo scontato";
+
+"header-step8-end"="Verifica i dati inseriti";
+"header-step8-end-deal"="Stai inserendo un Prodotto o un'Offerta nella Categoria: ";
+"header-step8-end-cover"="Stai inserendo un Negozio, un'Attività commerciale o un Luogo nella Categoria: ";
+"header-step8-end-photo"="Stai inserendo una Foto nella Categoria: ";
+"header-step8-end-event"="Stai inserendo un Evento nella Categoria: ";
+"header-step8-end-report"="Verifica i dati inseriti prima di procedere all'invio della segnalazione!";
+"header-step8-end-ad"="Verifica i dati inseriti prima di procedere alla pubblicazione dell'*Offerta di un passaggio*";
+
+"telephone-number-label" = "Inserisci un numero di telefono se vuoi essere contattato";
+"telephone-number-textField" = "Telefono (opzionale)";
+"email-textField" = "Email (opzionale)";
+"poi-start-textField" = "Partenza";
+"poi-end-textField" = "Destinazione";
+"label-duration-placeholder" = "Durata prevista del viaggio";
+"label-data-partenza-placeholder" = "Data di partenza";
+"labelAddDescription"="Aggiungi una descrizione";
+"alert-invalid-form" = "Compila tutti i campi obbligatori in maniera corretta prima di andare avanti";
+"label-obbligatorio" = "(obbligatorio)";
+"label-header-description-textField"="Per offrire un passaggio, compila i seguenti campi obbligatori, inserendo luogo di partenza, di arrivo, data e durata presunta del viaggio";
+
+//DETAIL PRODUCT
+"multiStoreLKey" = "Vedi altri punti vendita";
+"labelChiama" = "Chiama";
+"labelTelephoNotAvailable" = "Telefono non disponibile";
+"labelChatta" = "Chatta con";
+"labelOfferta" = "Chiedi informazioni a";
+"labelDaTe" = "da te";
+"labelEmail" = "Invia una email";
+"labelAdvertising" = "Vuoi inserire gratuitamente la tua attività commerciale? Vai qui!";
+
+// chat labels
+"NoConversationsYet" = "seleziona un Defibrillatore e chiedi informazioni per iniziare una conversazione";
+//"Seleziona un annuncio e chiedi informazioni per iniziare una conversazione";
+"DeleteConversationTitle" = "Elimino questa Conversazione?";
+"DeleteConversationMessage" = "Sei sicuro? Tutti i messaggi di questa conversazione saranno eliminati e l'operazione non può essere annullata.";
+"ChatConnected" = "connesso";
+"ChatDisconnected" = "connessione...";
+"ChatSend" = "Invia";
+
+// settings view
+"ChatTerms" = "Termini e Condizioni";
+"ChatPrivacy" = "Privacy";
+"ChatLicences" = "Licenze";
+
+// select user (new message) view
+"NewMessage" = "Nuovo Messaggio";
+
+// profile view
+"ChatProfile" = "Profilo";
+"ChatSignoutAlert" = "Sei sicuro?";
+"ChatCancel" = "Annulla";
+"ChatSettingsMenuOption" = "Impostazioni";
+"ChatHelpMenuOption" = "Aiuto e assistenza";
+"ChatLogoutMenuOption" = "Esci";
+
+// chat integration
+"SendMessageDialogTopLabel" = "Chiedi informazioni a %@";
+"SendMessageDialogButton" = "Invia messaggio";

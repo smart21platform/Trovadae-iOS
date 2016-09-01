@@ -1,0 +1,361 @@
+/* 
+  Localizable.strings
+  English
+
+  Created by andrea sponziello on 17/09/12.
+
+*/
+
+// General
+//"AppTitleLKey" = "My Shop";
+"CancelLKey" = "Cancel";
+"DoneLKey" = "Done";
+"CloseLKey" = "Close";
+"SendLKey" = "Post";
+"RequiredPlaceholderLKey" = "Required";
+"ConnectionErrorLKey" = "Connection Error.";
+"TimeToStringDateFormat" = "MMMM d";
+"UploadedByLKey" = "Uploaded by";
+"MoreResultsLKey" = "More results";
+"NoMoreResultsLKey" = "End";
+"NoProductsLKey" = "No products";
+"ProductsCreatedButtonLKey" = "Created";
+"ProductsLikedButtonLKey" = "Liked";
+"NoProductsLKey" = "No object found";
+"LoadingLKey" = "Loading...";
+"PullToRefreshLKey" = "Pull to refresh";
+"ReleaseToRefreshLKey" = "Release to refresh";
+"LoadingNearestShopsLKey" = "Searching nearest Shops...";
+"LocationNotAvailableLKey" = "Location not available. Please verify that Location Services are turned on in Settings.";
+"NearestShopsLocationNotAvailableLKey" = "Nearest Shops are not available. Please verify that Location Services are turned on in Settings.";
+"LocDisabledTitleLKey" = "Location Services Disabled";
+"LocDisabledMessageLKey" = "Turn On Location Services to allow App to determine your Location.";
+"CategoryAllLKey" = "Everything";
+"Explore" = "Explore";
+"LikeLKey" = "Like";
+"UnlikeLKey" = "Unlike";
+"LikedLKey" = "Liked";
+"UnlikedLKey" = "Unliked";
+"NoItemsLKey" = "No Products found";
+"NearestShopsLKey" = "Nearest shops";
+"NearestNameShopsLKey" = "Nearest shops";
+"NoShopFoundLKey" = "No Shop found";
+"NoUserFoundLKey" = "No User found";
+"RecentlyUsedShopsLKey" = "Recently used shops";
+
+"AddShopLKey" = "Add Shop";
+"ShopNameLKey" = "Name";
+"TapTheMapLKey" = "Tap the Map to position the Shop";
+"ChooseShopLKey" = "Choose a Shop";
+"ChooseShopNameLKey" = "Choose a Shop";
+
+"PlaceTheShopOnTheMapLKey" = "Place the shop on the map";
+"NetworkErrorTitleLKey" = "Network error";
+"NetworkErrorLKey" = "A network error occurred during the operation.";
+"UnknownErrorTitleLKey" = "Error";
+"UnknownErrorLKey" = "An error occurred during the operation.";
+"SavingLKey" = "Saving...";
+"SelectCategoryTitleLKey" = "Category";
+"ShopLKey" = "The Shop";
+"ShopsLKey" = "Shops";
+"LocationTitleLKey" = "Locate";
+"WelcomeViewTitleLKey" = "welcomes you to %@!";
+"WelcomeViewMessageLKey" = "We are glad to have you in the community.\n\n\nAs a registered user you can share deals and proposals in your area!";
+
+"WelcomeViewStartButtonLKey" = "Start now";
+"TryAgainLKey" = "Try again";
+"FewSecondsAgoLKey" = "few seconds ago";
+"AboutAMinuteAgoLKey" = "about a minute ago";
+"MinutesAgoLKey" = "minutes ago";
+"AboutAnHourAgoLKey" = "about an hour ago";
+"HoursAgoLKey" = "hours ago";
+"ShowMenuButtonLKey" = "Menù";
+"CallTitleLKey" = "Call?";
+"PhoneNumberLKey" = "Phone";
+"WebsiteLKey" = "Web Site";
+"GetRouteLKey" = "Get Route";
+"InfoLKey" = "Info";
+"NotAvailableLKey" = "Not available";
+"WhyAreYouReportingLKey" = "Why are you reporting?";
+"ReportLKey" = "Report";
+"FeedbackSend" = "Send";
+"yourEmailOptional" = "Your email (optional)";
+"ProductReportedLKey" = "Segnalato";
+"SendLKey" = "Send";
+"SearchProductsShopsUsersLKey" = "Search Products, Shops, Users";
+"SearchProductsUsersLKey" = "Search Products, Users...";
+"SearchShopsPlaceholderLKey" = "Search a Shop";
+"SearchPlaceholderLKey" = "Search";
+"DeleteProductLKey" = "Delete";
+"EditProductLKey" = "Edit";
+"ShareOnFacebookLKey" = "Share on Facebook";
+"ShareOnTwitterLKey" = "Share on Twitter";
+"ShareOnLKey" = "Share on";
+"CopyUrlToShareLKey" = "Copy URL to share";
+"DeleteProductAlertTitleLKey" = "Confirm delete";
+"DeleteProductAlertMessageLKey" = "Delete this object?";
+"SignalUserAsSpamLKey" = "Signal as spam";
+"ThanksForSignalLKey" = "Thanks for signaling";
+"UserStoryDescriptionPlaceholderLKey" = "Describe this also using #tags...";
+"UserStoryTitlePlaceholderLKey" = "Maximum 50 characters";
+"ConnectingToFacebookLKey" = "Connecting to Facebook...";
+"AuthenticatingLKey" = "Authenticating...";
+"RequestingToFacebookLKey" = "Requesting user data...";
+"StandardLoginTopMessageLKey" = "Sign up now to entry in our comunity.";
+"CategoriesLoadErrorLKey" = "Can't download Categories. Try again.";
+"NoCategoriesErrorLKey" = "No Category loaded.";
+
+// report abuse
+"Abuse1LKey" = "Violence o Pornography";
+"Abuse2LKey" = "Damages Shop's image";
+"Abuse3LKey" = "Not sold at this Shop";
+"Abuse4LKey" = "Spam";
+"Abuse5LKey" = "Miscategorized";
+"Abuse6LKey" = "Other";
+"PleaseSelectAReasonForReportingThisItemLKey" = "Please select a reason for reporting this item";
+"ThanksForReportingMessageLKey" = "Thanks for the your contribution!";
+
+// Currencies' symbols
+"euro" = "€";
+"dollar" = "$";
+
+// Search
+"SearchProductsButtonLKey" = "Products";
+"SearchShopsButtonLKey" = "Shops";
+"SearchUsersButtonLKey" = "Users";
+
+// Add Product
+// wizard
+"wizardNextButton" = "Next";
+"minimumWordsForDescription" = "At least 5 characters";
+"minimumWordsForTitle" = "At least 5 characters";
+"poiEatPlaceholderLKey" = "Restaurant, pub, etc.";
+"poiSleepPlaceholderLKey" = "Search the B&B";
+"poiEventPlaceholderLKey" = "Search the place";
+"poiPlaceholderLKey" = "Search the place";
+"durationDaysFormat" = "Lasts about %d days";
+"durationAboutOneDayFormat" = "Lasts about one day";
+"durationLessThanOneDayFormat" = "Lasts less then one day";
+"wizardZeroPricePlaceholderLKey" = "0,00";
+
+"wizardPricePlaceholderLKey" = "price (optional)";
+"wizardPriceEventPlaceholderLKey" = "price (optional)";
+"wizardCurrencyLKey" = "$";
+"freePriceLKey" = "FREE!";
+"PriceNotANumberValidationMessageLKey" = "Not a valid Price";
+"PriceIsMandatoryLKey" = "Price is mandatory";
+"PriceNotNullLKey" = "Price can't be 0";
+"SelectDuration" = "Select...";
+"durationOneDay" = "One day";
+"durationDays" = "days";
+"durationDay" = "day";
+"durationMonths" = "months";
+"durationMonth" = "month";
+"howlong" = "Lasts";
+"endsOn" = "Ends";
+"areYouSureNoPrice" = "You have not entered the price.\nContinue?";
+"wizardDealStartPricePlaceholderLKey" = "Start price";
+"wizardDealPricePlaceholderLKey" = "Final price";
+"wizardEventPricePlaceholderLKey" = "Price Event";
+"h"="h";
+"m"="m";
+"AddOffert" = "Add an object";
+"ControlPanel" = "Control Panel";
+"ShareDocuments" = "Documenti condivisi";
+
+// deprecated single form
+"BeforeSavingLKey" = "Before saving";
+//"EditDescriptionValidationMessageLKey" = "Edit the product's Description";
+"EditProductShopValidationMessageLKey" = "Select a Shop for this product";
+"SelectACategoryValidationMessageLKey" = "Classify this deal";
+"ShareOnSectionTitleLKey" = "Share on";
+"SearchOrAddShopPlaceholderLKey" = "Search or Add a Shop";
+
+// Signin Signup
+"SigninValidationErrorTitleLKey" = "Before Signin";
+"SigninValidationErrorLKey" = "Fill Username and Password please.";
+"UsernameLKey" = "Username";
+"PasswordLKey" = "Password";
+"FullNameLKey" = "Full name";
+"EmailLKey" = "Email";
+"RegisterMessageInSigninViewLKey" = "No account? Sign up for free.";
+"SigninNavbarButtonLKey" = "Sign in";
+"SignedInPopupLKey" = "Welcome!";
+"UseramePasswordInvalidLKey" = "Invalid Username or Password.";
+"EnterTheNetworkLKey" = "Enter The Network";
+"ConnectWithFacebookLKey" = "Connect with Facebook";
+"SignupLKey" = "Signup";
+"SigninLKey" = "Signin";
+"SignoutLKey" = "Signout";
+"LoginHomeTitleLKey" = "Welcome";
+"ProfileHomeTitleLKey" = "Profile";
+"HomeLKey" = "Discover";
+"RegisteringLKey" = "Registering...";
+"RegisterActionLKey" = "Register";
+"AcceptConditionsLKey" = "Accept Terms of use";
+"ViewConditionsLKey" = "View Terms of use";
+"AcceptTermsLKey" = "Accept \"Tems of use\" before proceed.";
+"RegisterValidationErrorTitleLKey" = "Before";
+"RegisterValidationErrorLKey" = "Compile the module please.";
+"RegisterValidationEmailLKey" = "Insert a valid email.";
+"RegistrationErrorTitleLKey" = "Registration error";
+"SigninErrorTitleLKey" = "Signin error";
+"UsernameAlreadyUsedLKey" = "Username already used.";
+"EmailAlreadyUsedLKey" = "Email already used.";
+"UsernameInvalidLKey" = "Invalid Username.";
+"UnknownRegistrationErrorLKey" = "Unknown Error.";
+"NoLocLKey" = "Your position is not available.";
+"locationInfoErrorLKey" = "!";
+
+"SignoutAlertLKey" = "Are you sure you want to sign out?";
+
+// Take Photo
+"AddProductTitleLKey" = "Add to %@";
+"TakePhotoLKey" = "Photo";
+"PhotoFromGalleryLKey" = "Choose existing photo";
+"AddNewProductsTitleLKey" = "Add Post or Snaps on %@.";
+"UploadsInProgressLKey" = "Current uploads";
+"UploadFailedLKey" = "Upload failed";
+"RemoveProfilePhotoLKey" = "Remove photo";
+
+
+// Product Detail
+"ProductDetailTitleLKey" = "Product";
+"DescriptionLabelLKey" = "Description";
+"ShopLabelLKey" = "Shop";
+"CategoryLabelLKey" = "Category";
+"BrandLabelLKey" = "Brand";
+"PriceLabelLKey" = "Price";
+"DescriptionPlaceholderLKey" = "Describe";
+"BrandPlaceholderLKey" = "brand";
+"PricePlaceholderLKey" = "price";
+"CategoryPlaceholderLKey" = "Man, Woman, Kid...";
+"PositionDetailTitleLKey" = "Location";
+"FacebookDiaryLKey" = "DiarY";
+"SelectFacebookPageLKey" = "SCEGLI UNA PAGINA";
+"toLKey" = "to";
+"toKey" = "to";
+"UploadedDateLKey" = "Upload ";
+"byLKey"="by";
+"offerValidLKey"="Offer valid";
+"validLKey"="Validity";
+"fromLKey"="from";
+"MapLKey" = "Map";
+"remaining_time" = "remaining time";
+"PriceRetailerLabelLKey" = "Prezzo retailer";
+
+// Shop detail
+"ShopTitleLKey" = "Shop detail";
+
+// main menu
+"ExploreLKey" = "Search";
+"AddLKey" = "Add";
+"ProfileLKey" = "Profile";
+"MoreKey" = "More";
+
+// notifications
+"NotificationsLKey" = "Notifications";
+"push-liked" = "%1$@ likes your post";
+"noAutenticatedNotification" = "Registrati per vedere le tue notifiche.";
+
+//webView utility
+"INFORMAZIONI"="INFORMATIONS";
+"ASSISTENZA"="ASSISTANCE";
+"OPZIONI"="OPTIONS";
+"messaggio login"="Find the best deals around you. Take a snap and publish your deal. For free.";
+"la storia"="Story";
+"come funziona"="How it works";
+"sito istituzionale"="Sito istituzionale";
+"sito web"="Web Site";
+"pagina facebook"="Facebook Page";
+"account twitter"="Twitter Account";
+"numeri utili"="Numeri utili";
+"segnala un problema"="Segnala un problema";
+"centro assistenza"="Centro assistenza";
+"condizioni duso"="Condizioni d'uso";
+"informazioni"="Informazioni";
+"impostazioni di condivisione"="Impostazioni di condivisione";
+
+
+"informativa sulla privacy"="Informativa sulla privacy";
+"portale turistico"="Portale turistico";
+"farmacie di turno"="Farmacie di turno";
+"numeri utili"="Numeri utili";
+"sito URP"="Sito URP";
+
+//search city
+"Posizione attuale"="Current position";
+"SearchAround"="Search around ";
+"you"="You";
+"SearchProductsAll"="All";
+
+//info controller page
+"labelInfoControllerPage1"="Tutte le migliori offerte selezionate per te...";
+"labelInfoControllerPage2"="Cerca le migiori offerte per mangiare, dormire, divertirti e fare shopping intorno a te. Oppure cerca il meglio intorno ad una città...";
+"labelInfoControllerPage3"="Aggiungi";
+"labelInfoControllerPage4"="Notifiche...";
+"labelInfoControllerPage5"="#mangiare #divertirti #dormire #centrobenessere #discoteca #terme #pizzeria #ristorante #sauna #sagra #concerti #bed&breakfast #arte #lido #monumenti #eventi";
+"labelInfoControllerPage6"="Altro...";
+
+
+//category name translate
+"__deal__eat-deal"="Offers";
+"__animaecuore__tosee" = "Photo";
+"__vacanzeinpuglia__events"="Events";
+"__vacanzeinpuglia__deal__citta"="City";
+"__studiosponziello__staff"="Staff";
+"__studiosponziello__news"="News";
+"__studiosponziello__scadenze"="Schedule";
+"__deal__service-deal"="Offerts";
+
+
+//add
+"AddNewPost"="+ Add new post";
+
+//UPDATE PRODUCT
+"error-update-reload"="Error update product. Reload please.";
+
+"FacebookErrorTitle" = "Error";
+"FacebookConnectionError" = "Si è verificato un errore durante la connessione con Facebook. Verifica i permessi in Settings > Facebook > ";
+
+//buttons
+"Continue"="CONTINUE";
+
+//WIZARD
+//step 1
+"type-deal"="Product, Deal";
+"type-cover"="Shop, Busyness, POI";
+"type-photo"="Photo";
+"type-event"="Event";
+
+//DETAIL PRODUCT
+"multiStoreLKey" = "Vedi altri punti vendita";
+"labelChiama" = "Chiama";
+"labelTelephoNotAvailable" = "Telefono non disponibile";
+"labelChatta" = "Chatta con";
+"labelDaTe" = "da te";
+
+// chat labels
+"NoConversationsYet" = "No Conversation yet";
+"DeleteConversationTitle" = "Delete this Conversation?";
+"DeleteConversationMessage" = "Are you sure you want to delete this Conversation? All the messages for this conversation will be deleted and the operation can't be undone.";
+"ChatConnected" = "connected";
+"ChatDisconnected" = "connecting...";
+"ChatSend" = "Send";
+
+// settings view
+"ChatTerms" = "Termini e Condizioni";
+"ChatPrivacy" = "Privacy";
+"ChatLicences" = "Licences";
+
+// select user (new message) view
+"NewMessage" = "New Message";
+
+// chat profile
+"ChatProfile" = "Profile";
+"ChatSignoutAlert" = "Are you sure?";
+"ChatCancel" = "Cancel";
+"ChatSettingsMenuOption" = "Settings";
+"ChatHelpMenuOption" = "Help and support";
+"ChatLogoutMenuOption" = "Logout";
+"ChatLogoutChatOption" = "Chat";

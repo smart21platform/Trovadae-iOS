@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Menu</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>idCellCreated</string>
+			<key>title</key>
+			<string>Creati</string>
+			<key>icon</key>
+			<string>PROFILO-creati.png</string>
+			<key>link</key>
+			<string></string>
+			<key>position</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>idCellLiked</string>
+			<key>title</key>
+			<string>Piaciuti</string>
+			<key>icon</key>
+			<string>PROFILO-piaciuti.png</string>
+			<key>link</key>
+			<string></string>
+			<key>position</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>NO idCellFacebook</string>
+			<key>title</key>
+			<string>Facebook</string>
+			<key>icon</key>
+			<string>PROFILO-facebook.png</string>
+			<key>link</key>
+			<string></string>
+			<key>position</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>idCellModify</string>
+			<key>title</key>
+			<string>Modifica nome utente</string>
+			<key>icon</key>
+			<string>PROFILO-modifica-profilo.png</string>
+			<key>link</key>
+			<string></string>
+			<key>position</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>idCellChangePsw</string>
+			<key>title</key>
+			<string>Modifica password</string>
+			<key>icon</key>
+			<string>PROFILO-modifica-profilo.png</string>
+			<key>link</key>
+			<string></string>
+			<key>position</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>idCellChat</string>
+			<key>title</key>
+			<string>Chat</string>
+			<key>icon</key>
+			<string>icon_light_chat.png</string>
+			<key>link</key>
+			<string></string>
+			<key>position</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>idCellLogout</string>
+			<key>title</key>
+			<string>Disconnetti</string>
+			<key>icon</key>
+			<string>PROFILO-logout.png</string>
+			<key>link</key>
+			<string></string>
+			<key>position</key>
+			<string>1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

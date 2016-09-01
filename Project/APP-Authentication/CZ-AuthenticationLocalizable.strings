@@ -1,0 +1,39 @@
+/* 
+  CZ-AuthenticationLocalizable.strings
+  AboutMe
+
+  Created by Dario De pascalis on 25/04/15.
+  Copyright (c) 2015 Dario De Pascalis. All rights reserved.
+*/
+
+"titleAuthentication" = "Trova DAE";
+"descriptionAuthentication" = "Effettua il login/signin per accedere alla app";
+"Accedi" = "Accedi";
+"Iscriviti" = "Iscriviti";
+"NomeUtente" = "Nome Utente";
+"Password" = "Password";
+"PasswordDimenticata" = "Password dimenticata";
+"AccediConFacebook" = "Accedi con Facebook";
+"InserisciEmail" = "Inserisci Email";
+"Avanti" = "Avanti";
+"Foto" = "Foto";
+"Email" = "Email";
+"Username" = "Username";
+"NomeCompleto" = "Nome completo";
+"AccettaPrivacy" = "Accetta la Privacy";
+"Avanti" = "Avanti";
+"Indietro" = "Indietro";
+"EmailError" = "Email errata!";
+"EmailGiaPresente" = "Email già presente!";
+"UsernameNonValido" = "Username non valido! (minimo %d caratteri)";
+"UsernameGiaPresente" = "Username già presente!";
+"PasswordNonValida" = "Password non valida! (minimo %d caratteri)";
+"NomeNonValido" = "Nome non valido! (minimo %d caratteri)";
+"AccettaTermini" = "Accetta i termini della privacy!";
+"RegistrazioneInCorso" = "Registrazione in corso";
+"AutenticazioneInCorso" = "Autenticazione in corso";
+"titleResetPassword" = "Rigenera la Password";
+"descriptionResetPassword" = "inserisci la tua email per procedere a generare una nuova Password";
+"TakePhoto" = "Scatta una Foto";
+"PhotoFromGallery" = "Scegli dalla Galleria";
+"RemoveProfilePhoto" = "Rimuovi Foto Profilo";
